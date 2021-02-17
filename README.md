@@ -1,2 +1,1 @@
-# netflix-
-repo made for exercice 
+# Netflix
